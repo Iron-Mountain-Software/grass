@@ -1,0 +1,22 @@
+{
+  "name": "com.spellboundar.grass",
+  "version": "1.0.0",
+  "displayName": "Grass",
+  "description": "Grass animated via vertex shading.",
+  "unity": "2019.1",
+  "keywords": [
+    "vfx",
+    "ui"
+  ],
+  "author": "Chris Monteferrante <chris@spellboundar.com>",
+  "type": "tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpellBoundAR-Packages/flippable-rects.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpellBoundAR-Packages/flippable-rects/issues"
+  },
+  "homepage": "https://github.com/SpellBoundAR-Packages/flippable-rects#readme"
+}
