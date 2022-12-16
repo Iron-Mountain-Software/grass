@@ -12,11 +12,11 @@
   "type": "tool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpellBoundAR-Packages/flippable-rects.git"
+    "url": "git+https://github.com/SpellBoundAR-Packages/grass.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SpellBoundAR-Packages/flippable-rects/issues"
+    "url": "https://github.com/SpellBoundAR-Packages/grass/issues"
   },
-  "homepage": "https://github.com/SpellBoundAR-Packages/flippable-rects#readme"
+  "homepage": "https://github.com/SpellBoundAR-Packages/grass#readme"
 }
